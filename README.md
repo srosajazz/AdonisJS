@@ -1,7 +1,6 @@
 # Developing a consistent and expressive API full-stack web applications and micro API servers with `AdonisJS`.
 
-/***
-| __Animals__ | 
+
 |-----------------------------------------|
 | 1.	Concepts and structure            |
 | 2.	Setting up ESLint                 |
@@ -28,4 +27,5 @@
 | 23.	Dealing with CORS                 |
 | 24.	Saving relationships              |
 | 25.	Using transactions                |
+|                                         |
 **/
